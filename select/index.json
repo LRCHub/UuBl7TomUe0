@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "TOKYO WATASHI COLLECTION",
+  "base_artist": "TINGS：青天国春(CV.鈴代紗弓)、玉城杏夏(CV.蟹沢萌子)、聖舞理王(CV.夏吉ゆうこ)、祇園寺雪音(CV.長谷川里桃)、伊藤紅葉(CV.中川梨花)",
+  "createdAt": "2026-01-14T00:40:33.383898Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO WATASHI COLLECTION",
+      "artist": "TINGS:青天国春(CV.鈴代紗弓)、玉城杏夏(CV.蟹沢萌子)、聖舞理王(CV.夏吉ゆうこ)、祇園寺雪音(CV.長谷川里桃)、伊藤紅葉(CV.中川梨花)",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_WATASHI_COLLECTION_TINGS_青天国春(CV.鈴代紗弓)、玉城杏夏(CV.蟹沢萌子)、聖舞理王(CV.夏吉ゆうこ)、祇園寺雪音(CV.長谷川里桃)、伊藤紅葉(CV.中川梨花).txt"
+    }
+  ]
+}
